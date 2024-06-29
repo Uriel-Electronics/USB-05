@@ -34,7 +34,7 @@ struct YouTubeView: UIViewRepresentable {
                 </style>
                 </head>
                 <body>
-                <iframe width="1920" height="934" src="https://www.youtube.com/embed/gWstaniV0Jw" title="우리엘전자 리브랜딩(URIEL BRAND RENEWAL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe width="1920" height="934" src="https://www.youtube.com/embed/_PzPNlfgv2g" title="우리엘전자 리브랜딩(URIEL BRAND RENEWAL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </body>
                 </html>
                 """
